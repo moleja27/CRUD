@@ -1,0 +1,20 @@
+{
+  "autos": [
+    {
+      "marca": "Camaro",
+      "modelo": "sedan",
+      "color": "negro",
+      "año": "2020",
+      "precio": "500000",
+      "id": 1
+    },
+    {
+      "marca": "Bicicleta",
+      "modelo": "apache",
+      "color": "rosita",
+      "año": "1993",
+      "precio": "10",
+      "id": 2
+    }
+  ]
+}
